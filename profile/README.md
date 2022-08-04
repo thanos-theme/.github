@@ -46,10 +46,10 @@
 
 All instructions can be found at each theme repository.
 
-| Platform                                                    | Repository                                                                            | Install                                                                       | Releases                                                          |
-| ----------------------------------------------------------- | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| [Visual Studio Code](https://code.visualstudio.com/)        | [thanos-theme/visual-studio-code](https://github.com/thanos-theme/visual-studio-code) | [⬇️](https://github.com/thanos-theme/visual-studio-code/blob/main/INSTALL.md) | [🟢](https://github.com/thanos-theme/visual-studio-code/releases) |
-| [Microsoft Terminal](https://github.com/Microsoft/Terminal) | [thanos-theme/windows-terminal](https://github.com/thanos-theme/windows-terminal)     | [⬇️](https://github.com/thanos-theme/windows-terminal/blob/main/INSTALL.md)   | [🟢](https://github.com/thanos-theme/windows-terminal/releases)   |
+| Platform                                                    | Repository                                                                            | Install                                                                         | Releases                                                              |
+| ----------------------------------------------------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| [Visual Studio Code](https://code.visualstudio.com/)        | [thanos-theme/visual-studio-code](https://github.com/thanos-theme/visual-studio-code) | [  ⬇️](https://github.com/thanos-theme/visual-studio-code/blob/main/INSTALL.md) | [    🟢](https://github.com/thanos-theme/visual-studio-code/releases) |
+| [Microsoft Terminal](https://github.com/Microsoft/Terminal) | [thanos-theme/windows-terminal](https://github.com/thanos-theme/windows-terminal)     | [  ⬇️](https://github.com/thanos-theme/windows-terminal/blob/main/INSTALL.md)   | [    🟢](https://github.com/thanos-theme/windows-terminal/releases)   |
 
 ## Contributors
 
